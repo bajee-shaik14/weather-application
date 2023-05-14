@@ -11,16 +11,11 @@
   font-family: Montserrat;
 }
 .AppLabel {
-  color: black;
-  margin: 20px auto;
-  font-size: 18px;
-  font-weight: bold;
+    color: black;
+    margin: 20px auto;
+    font-size: 18px;
+    font-weight: bold;
+  }
+.sorry-msg {
+    font-family: Montserrat;
 }
-.CloseButton {
-  padding: 2px 3px;
-  background-color: black;
-  border-radius: 50%;
-  color: white;
-  position: absolute;
-}
-
